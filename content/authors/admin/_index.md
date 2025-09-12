@@ -39,5 +39,5 @@ education:
   - area: PhD Computer Science
     institution: Ulm University
     date_start: 2021-06-01
-    date_end: now
+    date_end: 2025-07-31
 ---
