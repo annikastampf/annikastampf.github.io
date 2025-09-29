@@ -55,4 +55,4 @@ features:
     enable: false
 
 logo:
-  filename: PersonalLogoWhite.png
+  filename: "PersonalLogoWhite.png"
