@@ -85,7 +85,9 @@ job:
     date_start: 2017-04-01
     date_end: 2017-10-31
 
-    
+awards:
+  - title: Outstanding Reviewer Recognitions
+    issuer: CHI 2025, CHI 2024
     
 ---
 I am a PhD candidate in Human-Computer Interaction at Ulm University. I study how passengers interact and cooperate with automated vehicles in increasingly complex traffic environments shaped by new mobility concepts and intelligent, connected systems. My work examines how trust develops, how differing goals of passengers and automated vehicles guide decisions, and how technologies like Vehicle-to-Everything (V2X) foster cooperation among all road users.
