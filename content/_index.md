@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: uploads/AnnikaStampfCV.pdf
     design:
       biography:
         # Customize the style of your biography text
